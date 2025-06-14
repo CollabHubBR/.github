@@ -1,4 +1,4 @@
-![Banner](collabhubbr.png)
+![Banner](../collabhubbr.png)
 
 Com a crescente de projetos Open Source com alto engajamento e participação da comunidade vem a necessidade de coordenar os esforços mantendo ainda o engajamento em comunidade. Pensando nisso, criamos o CollabHubBR, uma plataforma Open Source 100% brasileira para coordenação e organização de projetos de código-aberto.
 
@@ -98,8 +98,7 @@ Pensado na comunidade, o CollabHubBR é arquitetado em microsserviços, de modo 
 
 Antes de contribuir ativamente com o projeto é **fortemente recomendada** a leitura dos documentos abaixo:
 
-- [Código de Conduta](CODE_OF_CONDUCT.md)
-- [Contribuindo](CODE_OF_CONDUCT.md)
-- [Segurança](SECURITY.md)
-- [Suporte](SUPPORT.md)
-
+- [Código de Conduta](../CODE_OF_CONDUCT.md)
+- [Contribuindo](../CODE_OF_CONDUCT.md)
+- [Segurança](../SECURITY.md)
+- [Suporte](../SUPPORT.md)
